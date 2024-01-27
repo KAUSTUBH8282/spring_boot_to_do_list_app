@@ -78,6 +78,7 @@ npm start
 
 #The frontend Server will be available at this ip address on localHost
 The Frontend server should start, and by default, it will be accessible at http://localhost:3000
+```
 
 ## Architecture
 
@@ -229,7 +230,7 @@ public class ConstructorBasedInjection {
 }
 ```
 
-### Setter-base
+### Setter-based
 
 It is recommended for optional dependencies.
 
@@ -247,7 +248,7 @@ public class ConstructorBasedInjection {
 }
 ```
 
-### Field-base
+### Field-based
 
 Not recommended.
 
