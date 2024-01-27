@@ -77,4 +77,4 @@ npm install
 npm start
 
 #The frontend Server will be available at this ip address on localHost
-The backend server should start, and by default, it will be accessible at http://localhost:3000
+The Frontend server should start, and by default, it will be accessible at http://localhost:3000
