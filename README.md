@@ -75,3 +75,6 @@ npm install
 
 # Start the React server
 npm start
+
+#The frontend Server will be available at this ip address on localHost
+The backend server should start, and by default, it will be accessible at http://localhost:3000
