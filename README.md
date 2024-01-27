@@ -49,11 +49,13 @@ The app follows a layered architecture with models defined in Java, CRUD operati
 
 To set up the backend Spring Boot application, follow these steps:
 
-1. Navigate to the root directory of the backend application (where the `pom.xml` is located)...cd SpringToDo/
+1. Navigate to the root directory of the backend application (where the `pom.xml` is located)
+    ```shell
+   cd SpringTodo/
 2. Open the backend directory in Eclipse IDE or any IDE of your choice that supports Maven projects.
-3. Import the project as an existing Maven project.
-4. Allow the IDE to resolve dependencies and build the project which may take a few minutes.
-5. Once the build is complete, you can run the application by:
+4. Import the project as an existing Maven project.
+5. Allow the IDE to resolve dependencies and build the project which may take a few minutes.
+6. Once the build is complete, you can run the application by:
    - Using the IDE's built-in features to run Spring Boot applications.
    - Running the main application class as a Java application.
    - Using the Maven command: `./mvnw spring-boot:run` (for Unix systems) or `mvnw spring-boot:run` (for Windows).
